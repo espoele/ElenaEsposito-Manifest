@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://espoele.github.io/ElenaEsposito-Manifest/manifests/ElenaEsposito-manifest.json",
-    "label" : "“From Soup Cans to Flying Saucers”: Highlights from MoMA’s Gallery 412"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://espoele.github.io/ElenaEsposito-Manifest/manifests/EspositoElena-manifest.json",
     "label" : "“From Soup Cans to Flying Saucers”: Highlights from MoMA’s Gallery 412"
   } ]
