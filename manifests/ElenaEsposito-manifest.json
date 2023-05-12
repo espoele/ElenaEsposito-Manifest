@@ -1,0 +1,589 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://espoele.github.io/ElenaEsposito-Manifest/manifests/ElenaEsposito-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "“From Soup Cans to Flying Saucers”: Highlights from MoMA’s Gallery 412",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A curated collection of seven artworks from Gallery 412 of the Museum of Modern Art (MoMA) has been selected for display. The collection features notable pieces of art from various artists and mediums, carefully chosen to showcase the diverse and dynamic nature of Pop Art. ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Elena Esposito",
+  "sequences" : [ {
+    "@id" : "http://427fb704-5cd0-4f19-8727-023235c1bccb",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://821e152b-6ec0-43c7-9220-3d4e622e3615",
+      "@type" : "sc:Canvas",
+      "label" : "OOF",
+      "height" : 1441,
+      "width" : 1354,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://991b2c9b-4f52-4229-aad8-8e98fc0ca991",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/ruscha.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/ruscha.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 1951114,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1441,
+          "width" : 1354
+        },
+        "on" : "http://821e152b-6ec0-43c7-9220-3d4e622e3615"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title ",
+        "value" : "OOF"
+      }, {
+        "label" : "Creator",
+        "value" : "Edward Ruscha"
+      }, {
+        "label" : "Subject",
+        "value" : "Pop Art"
+      }, {
+        "label" : "Description",
+        "value" : "“The single word, its guttural monosyllabic pronunciation, that’s what I was passionate about,” Ruscha has said of his early work. “Loud words, like slam, smash, honk.” The comic-book quality of these words reﬂects the Pop artists’ fascination with popular culture. Lettered in clear typography rather than handwriting, the words are deﬁnite and impersonal in shape; unlike the Abstract Expressionists of the 1940s and ’50s, Ruscha had no interest in letting a painting emerge through an introspective process: “I began to see that the only thing to do would be a preconceived image. It was an enormous freedom to be premeditated about my art.”\n\nLike OOF, many of his paintings have “a certain comedic value,” Ruscha has said, and their humor is underlined by the paradox of their appearance in the silent medium of paint, with neither an image nor a sentence to help them evoke the sounds they denote. OOF is particularly paradoxical, as a word describing a wordless grunt. In Ruscha’s hands, its double Os also punned on recent American paintings—the Targets of Jasper Johns and the Circles of Kenneth Noland."
+      }, {
+        "label" : "Publisher",
+        "value" : "MoMA"
+      }, {
+        "label" : "Date Created",
+        "value" : "1962"
+      }, {
+        "label" : "Date Modified",
+        "value" : "Reworked 1963"
+      }, {
+        "label" : "DCMIType",
+        "value" : "PhysicalObject"
+      }, {
+        "label" : "Format",
+        "value" : "Painting"
+      }, {
+        "label" : "Extent",
+        "value" : "71 1/2 x 67\" (181.5 x 170.2 cm)"
+      }, {
+        "label" : "Medium",
+        "value" : "Oil on canvas"
+      }, {
+        "label" : "Identifier",
+        "value" : "256.1988"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/79298?sov_referrer=theme&theme_id=5123"
+      }, {
+        "label" : "Relation Is Part Of",
+        "value" : "From Soup Cans to Flying Saucers"
+      }, {
+        "label" : "Relation Is Referenced By",
+        "value" : "Audio from the playlist Collection 1940s–1970s"
+      }, {
+        "label" : "Rights",
+        "value" : "© 2023 Edward Ruscha"
+      }, {
+        "label" : "Provenance",
+        "value" : "Gift of Agnes Gund, the Louis and Bessie Adler Foundation, Inc.,\nRobert and Meryl Meltzer, Jerry I. Speyer, Anna Marie and Robert F.\nShapiro, Emily and Jerry Spiegel, an anonymous donor, and purchase"
+      } ]
+    }, {
+      "@id" : "http://49093fe1-cdb6-4865-a68f-46cfee9b318e",
+      "@type" : "sc:Canvas",
+      "label" : "Drowning Girl",
+      "height" : 1451,
+      "width" : 1430,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://48a3b529-9f0e-4a7d-8a11-6e3c851a7571",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/lichtenstein.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/lichtenstein.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 2074930,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1451,
+          "width" : 1430
+        },
+        "on" : "http://49093fe1-cdb6-4865-a68f-46cfee9b318e"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Drowning Girl"
+      }, {
+        "label" : "Creator",
+        "value" : "Roy Lichtenstein"
+      }, {
+        "label" : "Subject",
+        "value" : "Pop Art"
+      }, {
+        "label" : "Description",
+        "value" : "Many of Roy Lichtenstein’s early paintings appropriated imagery found in comic books. Drowning Girl samples a page from issue #83 of Secret Hearts, a romance comic book illustrated by Tony Abruzzo and published by DC Comics in 1962. In Abruzzo’s original illustration, the drowning girl’s boyfriend appears in the background, clinging to a capsized boat. Meanwhile, the drowning girl in the foreground laments with closed eyes.\n\nTo create Drowning Girl, Lichtenstein cropped Abruzzo’s splash page (a comic book page with a single image surrounded by a frame), showing the woman alone and encircled by a threatening wave. He also changed the caption from “I don’t care if I have a cramp!” to “I don’t care!” and the boyfriend’s name from Mal to Brad. Describing his use of the comics medium, Lichtenstein says, “My work is actually different from comic strips in that every mark is really in a different place, however slight the difference seems to some. The difference is often not great, but it is crucial.”\n\nCritics continue to debate the differences between Lichtenstein’s painting and Abruzzo’s illustration. The similarities continue to invite questions about authorship, style, and the value society ascribes to different forms of art."
+      }, {
+        "label" : "Publisher",
+        "value" : "MoMA"
+      }, {
+        "label" : "Date Created",
+        "value" : "1963"
+      }, {
+        "label" : "DCMIType",
+        "value" : "PhysicalObject"
+      }, {
+        "label" : "Format",
+        "value" : "Painting"
+      }, {
+        "label" : "Extent",
+        "value" : "67 5/8 x 66 3/4\" (171.6 x 169.5 cm)"
+      }, {
+        "label" : "Medium",
+        "value" : "Oil and acrylic on canvas"
+      }, {
+        "label" : "Identifier",
+        "value" : "685.1971"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/80249?sov_referrer=theme&theme_id=5123"
+      }, {
+        "label" : "Relation Is Part Of",
+        "value" : "From Soup Cans to Flying Saucers"
+      }, {
+        "label" : "Relation Is Referenced By",
+        "value" : "Audio from the playlist Collection 1940s–1970s"
+      }, {
+        "label" : "Provenance",
+        "value" : "Philip Johnson Fund (by exchange) and gift of Mr. and Mrs. Bagley Wright"
+      } ]
+    }, {
+      "@id" : "http://2886ba08-bc0d-456a-8bcb-cd739d31a866",
+      "@type" : "sc:Canvas",
+      "label" : "Hold your Fire (Men and Machines)",
+      "height" : 1445,
+      "width" : 2420,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8b9e9ca9-dc84-402c-837c-5e194252b820",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/drexler.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/drexler.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 3496900,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1445,
+          "width" : 2420
+        },
+        "on" : "http://2886ba08-bc0d-456a-8bcb-cd739d31a866"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Hold your Fire (Men and Machines)"
+      }, {
+        "label" : "Creator",
+        "value" : "Rosalyn Drexler"
+      }, {
+        "label" : "Subject",
+        "value" : "Pop Art"
+      }, {
+        "label" : "Description",
+        "value" : "Exploring American archetypes and media culture, Drexler collages enlarged versions of images from movie posters, magazines, and newspapers into her paintings. An example from her Men and Machines series, in which men are shown at work operating machinery, Hold Your Fire suggests a man adjusting a film projector, but the object could just as easily be a weapon."
+      }, {
+        "label" : "Publisher",
+        "value" : "MoMA"
+      }, {
+        "label" : "Date Created",
+        "value" : "1966"
+      }, {
+        "label" : "DCMIType",
+        "value" : "PhysicalObject"
+      }, {
+        "label" : "Format",
+        "value" : "Painting"
+      }, {
+        "label" : "Extent",
+        "value" : "30 × 50\" (76.2 × 127 cm)"
+      }, {
+        "label" : "Medium",
+        "value" : "Acrylic and paper on canvas"
+      }, {
+        "label" : "Identifier",
+        "value" : "500.2017"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/221857?sov_referrer=theme&theme_id=5123"
+      }, {
+        "label" : "Relation Is Part Of",
+        "value" : "From Soup Cans to Flying Saucers"
+      }, {
+        "label" : "Relation Is Referenced By",
+        "value" : "Audio from the playlist Collection 1940s–1970s"
+      }, {
+        "label" : "Rights",
+        "value" : "© Rosalyn Drexler / Artists Rights Society (ARS),\nNew York and Garth Greenan Gallery, New York."
+      }, {
+        "label" : "Provenance",
+        "value" : "Committee on Painting and Sculpture Funds, and acquired through the\ngenerosity of Daniel and Brett Sundheim and the Modern Women's Fund"
+      } ]
+    }, {
+      "@id" : "http://de6c4e18-38da-4797-bcec-6204eacb5b13",
+      "@type" : "sc:Canvas",
+      "label" : "Campbell's Soup Cans",
+      "height" : 1382,
+      "width" : 2310,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5c772094-88ae-477b-89d7-27ebb1dd8916",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/warhol.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/warhol.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 3192420,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1382,
+          "width" : 2310
+        },
+        "on" : "http://de6c4e18-38da-4797-bcec-6204eacb5b13"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Campbell's Soup Cans"
+      }, {
+        "label" : "Creator",
+        "value" : "Andy Warhol"
+      }, {
+        "label" : "Subject",
+        "value" : "Pop Art"
+      }, {
+        "label" : "Description",
+        "value" : "When asked why he chose to paint Campbell’s soup cans, Warhol offered a deadpan reply: “I used to have the same lunch every day, for twenty years, I guess, the same thing over and over again.” That daily meal is the subject of this work consisting of thirty-two canvases—one for each of the flavors then sold by Campbell’s—using a combination of projection, tracing, painting, and stamping. Repeating the nearly identical image, the canvases at once stress the uniformity and ubiquity of the product’s packaging and subvert the idea of painting as a medium of invention and originality."
+      }, {
+        "label" : "Publisher",
+        "value" : "MoMA"
+      }, {
+        "label" : "Date Created",
+        "value" : "1962"
+      }, {
+        "label" : "DCMIType",
+        "value" : "PhysicalObject"
+      }, {
+        "label" : "Format",
+        "value" : "Painting"
+      }, {
+        "label" : "Extent",
+        "value" : "Each canvas 20 x 16\" (50.8 x 40.6 cm). Overall installation\nwith 3\" between each panel is 97\" high x 163\" wide"
+      }, {
+        "label" : "Medium",
+        "value" : "Acrylic with metallic enamel paint on canvas, 32 panels"
+      }, {
+        "label" : "Identifier",
+        "value" : "476.1996.1-32"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/79809?sov_referrer=theme&theme_id=5123"
+      }, {
+        "label" : "Relation Is Part Of",
+        "value" : "From Soup Cans to Flying Saucers"
+      }, {
+        "label" : "Relation Is Referenced By",
+        "value" : "Audio from the playlist Collection 1940s–1970s"
+      }, {
+        "label" : "Rights",
+        "value" : "© 2023 Andy Warhol Foundation / ARS, NY / TM\nLicensed by Campbell's Soup Co. All rights reserved."
+      }, {
+        "label" : "Provenance",
+        "value" : "Partial gift of Irving Blum Additional funding provided by Nelson A. Rockefeller\nBequest, gift of Mr. and Mrs. William A. M. Burden, Abby Aldrich Rockefeller\nFund, gift of Nina and Gordon Bunshaft, acquired through the Lillie P.\nBliss Bequest, Philip Johnson Fund, Frances R. Keech Bequest, gift of\nMrs. Bliss Parkinson, and Florence B. Wesley Bequest (all by exchange)"
+      } ]
+    }, {
+      "@id" : "http://bde2001b-7a81-4bf9-8607-b873363bd111",
+      "@type" : "sc:Canvas",
+      "label" : "B 52 Lipstick Bomber",
+      "height" : 1436,
+      "width" : 2019,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d9624518-d67c-4ba6-a13b-4282a3497728",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/vostell.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/vostell.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 2899284,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1436,
+          "width" : 2019
+        },
+        "on" : "http://bde2001b-7a81-4bf9-8607-b873363bd111"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "B 52 Lipstick Bomber"
+      }, {
+        "label" : "Creator",
+        "value" : "Wolf Vostell"
+      }, {
+        "label" : "Subject",
+        "value" : "Pop Art"
+      }, {
+        "label" : "Description",
+        "value" : "Vostell often utilized mass-media images of destruction in his examination of consumer culture. This critical, explicitly political stance was a primary strategy of artists associated with Capitalist Realism, established in West Germany in the early 1960s by Vostell (along with Gerhard Richter and Sigmar Polke, whose works are on view nearby) as a parody of an art movement. In this work, Vostell adapted a widely circulated war photograph of a Boeing B-52 plane dropping bombs over Vietnam. He replaced the bombs with tubes of lipstick—equating mindless consumerism with apathy toward contemporary injustices and violence."
+      }, {
+        "label" : "Publisher 1",
+        "value" : "Galerie Art Intermedia, Cologne"
+      }, {
+        "label" : "Publisher 2",
+        "value" : "MoMA"
+      }, {
+        "label" : "Contributor",
+        "value" : "Printer Kindermann and Giesen, Cologne"
+      }, {
+        "label" : "Date Created",
+        "value" : "1968"
+      }, {
+        "label" : "DCMIType",
+        "value" : "PhysicalObject"
+      }, {
+        "label" : "Format",
+        "value" : "Print"
+      }, {
+        "label" : "Extent",
+        "value" : "Frame: 39 5/16 × 50 1/4 × 4 7/8\" (99.9 × 127.7 × 12.4 cm)"
+      }, {
+        "label" : "Medium",
+        "value" : "Multiple of screenprint with lipstick additions"
+      }, {
+        "label" : "Identifier",
+        "value" : "609.2016"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/204721?sov_referrer=theme&theme_id=5123"
+      }, {
+        "label" : "Relation Is Version Of",
+        "value" : "Artist's proof outside the edition of 20"
+      }, {
+        "label" : "Relation Is Part Of",
+        "value" : "From Soup Cans to Flying Saucers"
+      }, {
+        "label" : "Rights",
+        "value" : "© 2023 Wolf Vostell / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn"
+      }, {
+        "label" : "Provenance",
+        "value" : "The Sue and Edgar Wachenheim III Endowment"
+      } ]
+    }, {
+      "@id" : "http://ddb8603b-4431-4776-b959-595845933b5b",
+      "@type" : "sc:Canvas",
+      "label" : "Accumulation No. 1",
+      "height" : 1437,
+      "width" : 1934,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e7b26558-0f10-4697-855d-ec3ed1413ec5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/kusama.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/kusama.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 2779158,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1437,
+          "width" : 1934
+        },
+        "on" : "http://ddb8603b-4431-4776-b959-595845933b5b"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Accumulation No. 1"
+      }, {
+        "label" : "Creator",
+        "value" : "Yayoi Kusama"
+      }, {
+        "label" : "Subject",
+        "value" : "Pop Art"
+      }, {
+        "label" : "Description",
+        "value" : "To make Accumulation No. 1, her first sculpture, Kusama covered an armchair with scores of hand-sewn stuffed and painted protrusions, which she referred to as phalluses. “I make them and make them and then keep on making them, until I bury myself in the process. I call this obliteration.” When she first exhibited this work in New York, her home throughout the 1960s, critics were, perhaps not surprisingly, shocked by the sexualized transformation of an ordinary domestic object by a female artist."
+      }, {
+        "label" : "Publisher",
+        "value" : "MoMA"
+      }, {
+        "label" : "Date Created",
+        "value" : "1962"
+      }, {
+        "label" : "DCMIType",
+        "value" : "PhysicalObject"
+      }, {
+        "label" : "Format",
+        "value" : "Sculpture"
+      }, {
+        "label" : "Extent",
+        "value" : "37 x 39 x 43\" (94 x 99.1 x 109.2 cm)"
+      }, {
+        "label" : "Medium",
+        "value" : "Sewn stuffed fabric, paint, and chair fringe"
+      }, {
+        "label" : "Identifier",
+        "value" : "1182.2012"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/163826?sov_referrer=theme&theme_id=5123"
+      }, {
+        "label" : "Relation Is Part Of",
+        "value" : "From Soup Cans to Flying Saucers"
+      }, {
+        "label" : "Relation Is Referenced By",
+        "value" : "Audio from the playlist Collection 1940s–1970s"
+      }, {
+        "label" : "Rights",
+        "value" : "© 2023 Yayoi Kusama"
+      }, {
+        "label" : "Provenance",
+        "value" : "Gift of William B. Jaffe and Evelyn A. J. Hall (by exchange)"
+      } ]
+    }, {
+      "@id" : "http://5cf18640-d365-472d-850c-122b51d1ef9f",
+      "@type" : "sc:Canvas",
+      "label" : "Thumbnail",
+      "height" : 1443,
+      "width" : 985,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e399be4b-e93e-4cdc-9fa6-a1d4d0f38d5d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://127.0.0.1:8182/iiif/2/warhol2.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://127.0.0.1:8182/iiif/2/warhol2.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 1421355,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1443,
+          "width" : 985
+        },
+        "on" : "http://5cf18640-d365-472d-850c-122b51d1ef9f"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Gold Marilyn Monroe"
+      }, {
+        "label" : "Creator",
+        "value" : "Andy Warhol"
+      }, {
+        "label" : "Subject",
+        "value" : "Pop Art"
+      }, {
+        "label" : "Description",
+        "value" : "Marilyn Monroe was a legend when she died of a drug overdose in August of 1962, but in retrospect her life seems a gradual martyrdom to the media and to her public. After her death, Warhol based many works on the same photograph of her, a publicity still for the 1953 movie Niagara. He would paint the canvas with a single color—turquoise, green, blue, lemon yellow—then silkscreen Monroe's face on top, sometimes alone, sometimes doubled, sometimes multiplied in a grid. As the surround for a face, the golden field in Gold Marilyn Monroe (the only one of Warhol's Marilyns to use this color) recalls the religious icons of Christian art history—a resonance, however, that the work suffuses with a morbid allure.\n\nIn reduplicating this photograph of a heroine shared by millions, Warhol denied the sense of the uniqueness of the artist's personality that had been implicit in the gestural painting of the 1950s. He also used a commercial technique— silkscreening—that gives the picture a crisp, artificial look; even as Warhol canonizes Monroe, he reveals her public image as a carefully structured illusion. Redolent of 1950s glamour, the face in Gold Marilyn Monroe is much like the star herself—high gloss, yet transient; bold, yet vulnerable; compelling, yet elusive. Surrounded by a void, it is like the fadeout at the end of a movie."
+      }, {
+        "label" : "Publisher",
+        "value" : "MoMA"
+      }, {
+        "label" : "Date Created",
+        "value" : "1962"
+      }, {
+        "label" : "DCMIType",
+        "value" : "PhysicalObject"
+      }, {
+        "label" : "Format",
+        "value" : "Painting"
+      }, {
+        "label" : "Extent",
+        "value" : "6' 11 1/4\" x 57\" (211.4 x 144.7 cm)"
+      }, {
+        "label" : "Medium",
+        "value" : "Silkscreen ink and acrylic on canvas"
+      }, {
+        "label" : "Identifier",
+        "value" : "316.1962"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/79737?sov_referrer=theme&theme_id=5123"
+      }, {
+        "label" : "Relation Is Part Of",
+        "value" : "From Soup Cans to Flying Saucers"
+      }, {
+        "label" : "Rights",
+        "value" : "© 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York"
+      }, {
+        "label" : "Provenance",
+        "value" : "Gift of Philip Johnson"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://49093fe1-cdb6-4865-a68f-46cfee9b318e"
+  }
+}
