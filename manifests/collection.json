@@ -1,0 +1,13 @@
+{
+  "id" : "https://espoele.github.io/ElenaEsposito-Manifest/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in espoele/ElenaEsposito-Manifest project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://espoele.github.io/ElenaEsposito-Manifest/manifests/ElenaEsposito-manifest.json",
+    "label" : "“From Soup Cans to Flying Saucers”: Highlights from MoMA’s Gallery 412"
+  } ]
+}
